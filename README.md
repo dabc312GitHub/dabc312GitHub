@@ -25,15 +25,15 @@ Here are some ideas to get you started:
   <img align="left" alt="rafxar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 -->
-<a href="https://www.linkedin.com/in/daryl-anthony-butron-cuayla/">
-  <img align="left" alt="Rafael's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/daryl-anthony-butron-cuayla-69bb17214/">
+  <img align="left" alt="Daryl's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!--
 <a href="https://www.twitch.tv/rafxar/">
   <img align="left" alt="Daryl's Twitch" width="22px" src="https://github.com/get-icon/geticon/blob/master/icons/twitch.svg" />
 </a>
 -->
-<a href="https://www.youtube.com/Pizza++/">
+<a href="https://www.youtube.com/channel/UClPiwfkn7mb__Hxu1jDhclg/featured">
   <img align="left" alt="Daryl's Yt" width="22px" src="https://github.com/get-icon/geticon/blob/master/icons/youtube.svg" />
 </a>
 <!--
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   <br/>
-I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequipa, Perú. Been into tech since I was vey little but have always been a lot lazy... I've been trying to change that! Thank you for looking at my Github profile.
+  Hi, I am Daryl B. a copmuter science student that likes pizza, coding and drawing by pc. I like to support new projects and tecaching.
   <br/>
   <br/>
 
@@ -53,7 +53,7 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 **Github stats:**
   <br/>
   <br/>
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelcanoguitton&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true)
-![Rafael's Programming Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelcanoguitton&layout=compact&langs_count=8&theme=radical&hide_title=true&hide_border=true)
+![Daryl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dabc312GitHub&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true)
+![Daryl's Programming Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dabc312GitHub&layout=compact&langs_count=8&theme=radical&hide_title=true&hide_border=true)
 
 ----
