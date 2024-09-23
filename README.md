@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 -->
 <a href="https://www.linkedin.com/in/daryl-anthony-butron-cuayla-69bb17214/">
-  <img align="left" alt="Daryl's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Daryl's LinkedIN" width="22px" src="https://raw.githubusercontent.com/linnovate/root-me/refs/heads/master/src/images/icons/linkedin.ico" />
 </a>
 <!--
 <a href="https://www.twitch.tv/rafxar/">
