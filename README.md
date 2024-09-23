@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   <br/>
-  Hi, I am Daryl B. a copmuter science student that likes pizza, coding and drawing by pc. I like to support new projects and tecaching.
+  Hi, I am Daryl B. a copmuter science student that likes pizza, coding and making games or xr projects. I like to support new projects and tecaching.
   <br/>
   <br/>
 
