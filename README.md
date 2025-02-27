@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   <br/>
-  Hi, I am Daryl B. a copmuter science student that likes pizza, coding and making games or xr projects. I like to support new projects and tecaching.
+  Hi, I am Daryl Butron an software developer that likes pizza, coding and making games or xr projects. I like to support new projects and tecaching for sharing information with friends or new people that I am meeting.
   <br/>
   <br/>
 
